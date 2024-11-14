@@ -1,13 +1,1 @@
-package com.mycompany.week1_oop;
-
-/**
- *
- * @author iftekharifti
- */
-public class Week1_oop {
-
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
-}
 
