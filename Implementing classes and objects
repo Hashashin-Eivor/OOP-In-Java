@@ -1,1 +1,13 @@
-#Implement classes and objects, instance variables and instance methods, UML notation for classes
+package com.mycompany.week1_oop;
+
+/**
+ *
+ * @author iftekharifti
+ */
+public class Week1_oop {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
+
