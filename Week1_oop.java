@@ -14,16 +14,16 @@ public class Week1_oop {
         System.out.println("Hello World!");
     
     
-    Person p = new Person("Iftekhar");
+    Person person = new Person("Iftekhar");
     
-    p.setSurname("Zaman");
-    p.setAge(22);
+    person.setSurname("Zaman");
+    person.setAge(22);
 
     
-    p.displayname();
+    person.displayname();
     
-    System.out.println("The name of the person is " +  p.display_f_name() + " " + p.getSurname()  );
-    System.out.println("The age of " + p.display_f_name()+ " is " + p.getAge() );
+    System.out.println("The name of the person is " +  person.display_f_name() + " " + person.getSurname() "." );
+    System.out.println("The age of " + person.display_f_name()+ " is " + person.getAge() "." );
     
     }    
     
